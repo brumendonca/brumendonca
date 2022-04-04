@@ -27,5 +27,3 @@
   <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" target="_blank"></a>
    <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target="_blank"></a>
    </div
-
-   
