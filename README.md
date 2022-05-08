@@ -4,7 +4,7 @@
 - 🐍 Estou estudando linguagem Python 
 - 📚 Sou Graduando em Ciências Econômicas
 - 🚗 Estou trablhando em projetos pessoais
-- 🧛‍♂️ Fato Curioso: Mesmo estudando Economia, tudo relacionado a tecnologia me disperta muito interesse! 
+- 🧛‍♂️ Fato Curioso: Mesmo estudando Economia, tudo relacionado a tecnologia me desperta muito interesse! 
 
 #
  <div align="center">
