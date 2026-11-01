@@ -9,7 +9,7 @@
 #
  <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brumendonca"/>
-  <img align="right" height="180em" src="(https://64.media.tumblr.com/0b7881bb7581ddd48fd43b3ecac7389c/19083d2bc6985b39-3c/s540x810/ff13fe1d6dfd3185fdc2dbabe9497d0387dd534d.gifv)">
+  <img align="right" height="180em" src="https://64.media.tumblr.com/0b7881bb7581ddd48fd43b3ecac7389c/19083d2bc6985b39-3c/s540x810/ff13fe1d6dfd3185fdc2dbabe9497d0387dd534d.gifv">
 </div>
   
   #
