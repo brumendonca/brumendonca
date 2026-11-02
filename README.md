@@ -15,7 +15,7 @@
         <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=brumendonca&theme=tokyonight&hide_border=true" alt="Streak Stats" />
       </td>
       <td align="center" valign="middle">
-        <img height="190px" src="krul tepes.gif" alt="Krul Tepes" />
+        <img height="190px" src="https://github.com/brumendonca/brumendonca/issues/2#issue-6153632638" />
       </td>
     </tr>
   </table>
