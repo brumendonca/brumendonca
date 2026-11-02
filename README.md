@@ -1,11 +1,12 @@
 ### Olá 👋
 
-- 📫 Me contate pelo LinkedIn!
-- 🐍 Estou estudando linguagem Python
-- 📚 Sou Graduando em Ciências Econômicas
-- 🚗 Estou trabalhando em projetos pessoais
+- 📫 Me contate pelo LinkedIn
+- 🐍 Estudando linguagem Python para análise de dados e automação
+- 📊 Modelagem e análise econométrica com linguagem R
+- 📚 Graduando em Ciências Econômicas
+- 🚗 Desenvolvendo projetos pessoais e acadêmicos
 - 🧛‍♂️ Fato Curioso: Mesmo estudando Economia, tudo relacionado a tecnologia me desperta muito interesse!
-
+- 🪪 Veja também meu Lattes!
 ---
 
 <div align="center">
@@ -24,14 +25,39 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brunop-mendonca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:brunopmendonca_contato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
-  <a href="https://www.python.org/about/apps/" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>
-  <a href="https://www.gimp.org/" target="_blank"><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp"></a>
-  <a href="https://inkscape.org/" target="_blank"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape"></a>
-  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"></a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"></a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"></a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"></a>
+  <!-- Redes e Contato -->
+  <a href="https://www.linkedin.com/in/brunop-mendonca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://lattes.cnpq.br/7304066625459533" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-13335A?style=for-the-badge&logo=curriculo-lattes&logoColor=white" alt="Currículo Lattes">
+  </a>
+  <a href="mailto:brunopmendonca_contato@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+
+  <br><br>
+
+  <!-- Tecnologias e Ferramentas -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  </a>
+  <a href="https://www.microsoft.com/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  </a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop">
+  </a>
+  <a href="https://inkscape.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape">
+  </a>
+  <a href="https://www.gimp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
+  </a>
 </div>
